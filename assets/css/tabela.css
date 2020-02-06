@@ -1,0 +1,12 @@
+table {
+    border: 1px solid #707070;
+    margin: 0 auto;
+    overflow-x: auto;
+    width: 70%;
+}
+tr>td {
+ 
+    padding-bottom: 1em;
+    border-collapse: separate;
+    tr.spaceUnder>td {
+}
