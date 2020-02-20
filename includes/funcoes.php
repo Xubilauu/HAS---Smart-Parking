@@ -1,7 +1,7 @@
 <?php
     //conexão
     $localhost = "mysql873.umbler.com";
-    $useru = "AdminUser";
+    $useru = "adminuser";
     $senhau = "l4r8z9x0";
     $db = "estacionamenta";
     $conexao = mysqli_connect($localhost, $useru, $senhau);
