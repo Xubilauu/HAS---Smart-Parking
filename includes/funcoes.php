@@ -1,8 +1,8 @@
 <?php
     //conexão
-    $localhost = "127.0.0.1";
-    $useru = "root";
-    $senhau = "";
+    $localhost = "mysql873.umbler.com";
+    $useru = "AdminUser";
+    $senhau = "l4r8z9x0";
     $db = "estacionamenta";
     $conexao = mysqli_connect($localhost, $useru, $senhau);
     mysqli_select_db($conexao, $db);
